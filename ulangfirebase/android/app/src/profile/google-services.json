@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "59252066452",
+    "project_id": "fir-ulang",
+    "storage_bucket": "fir-ulang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59252066452:android:65666ee173f5ef7a070c81",
+        "android_client_info": {
+          "package_name": "com.timun.ulangfirebase.ulangfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59252066452-j9aahkttafue75i2q1nqs958doefat5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa7DBJewbGjR_pcRlMuK5eCSg0Ygt5jt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59252066452-j9aahkttafue75i2q1nqs958doefat5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
